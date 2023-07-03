@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  textarea {
+    width: 100%;
+    resize: vertical;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  #prediction-result {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
